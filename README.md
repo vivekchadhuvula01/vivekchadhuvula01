@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Ipl Auction 2023**
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently in the field of  **embedded software**
 
-- 💬 Ask me about **pandas, seaborn, matplotlib, python**
+- 💬 Ask me about **pandas, seaborn, matplotlib, python, stm32**
 
 - 📫 How to reach me **vivekchadhuvula@gmail.com**
 
