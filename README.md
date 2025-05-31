@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Chadhuvula</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Ipl Auction 2023**
+- 🔭 I’m currently working on **EPS firmware development**
 
 - 🌱 I’m currently in the field of  **embedded software**
 
