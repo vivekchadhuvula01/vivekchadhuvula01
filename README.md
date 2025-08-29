@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EPS firmware development**
 
-- 🌱 I’m currently in the field of  **embedded software**
+- 🌱 I’m currently in the field of  **Firmware Development**
 
 - 💬 Ask me about **pandas, seaborn, matplotlib, python, stm32**
 
