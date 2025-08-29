@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **pandas, seaborn, matplotlib, python, stm32**
 
-- 📫 How to reach me **vivekchadhuvula@gmail.com**
+- 📫 Here you can reach me **vivekchadhuvula@gmail.com**
 
 - ⚡ Fun fact **I am a quick learner**
 
